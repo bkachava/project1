@@ -1,5 +1,4 @@
-# Pytheam - Project 1
-----
+# ECOBICI Project - Pytheam
 
 ### Summary
 
@@ -16,3 +15,13 @@ Assess whether public bikeshare system (ECOBICI) is a mobility solution for Mexi
 ![slide](Docs/Project1_PYTHEAM.png)
 
 ---
+
+### Technologies used
+
+Pythonn, Jupyter Notebooks, Pandas and Matplotlib libraries, JSON traversals and Microsoft Excel.
+
+
+### Final reports
+
+See a [presentation](Output/Prez Project1 PYTHEAM.pdf) with the main findings and a [document](Output/PyTheam_Project1_FinalDoc.pdf) 
+that explains the processes followed to retain or reject the null hypothesis. 
