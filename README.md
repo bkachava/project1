@@ -16,9 +16,9 @@ Assess whether public bikeshare system (ECOBICI) is a mobility solution for Mexi
 
 ---
 
-### Technologies used
+### Technologies
 
-Pythonn, Jupyter Notebooks, Pandas and Matplotlib libraries, JSON traversals and Microsoft Excel.
+__Python, Jupyter Notebooks, Pandas and Matplotlib libraries, JSON traversals and Microsoft Excel__.
 
 
 ### Final reports
