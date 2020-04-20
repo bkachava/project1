@@ -23,5 +23,5 @@ __Python, Jupyter Notebooks, Pandas and Matplotlib libraries, JSON traversals an
 
 ### Final reports
 
-See the [presentation](Docs/Prez%20Project1%20PYTHEAM.pdf) with the main findings and a [document](Docs/PyTheam_Project1_FinalDoc.pdf) 
+See the [presentation](Docs/Project1_PYTHEAM.pdf) with the main findings and a [document](Docs/PyTheam_Project1_FinalDoc.pdf) 
 that explains the processes followed to retain or reject the null hypothesis. 
